@@ -1,7 +1,7 @@
 ALSTypograph
 ============
 
-Sublime Text 2 plugin for one keyboard shortcut typoghraphing text.
+Sublime Text 2 plugin for one keyboard shortcut text typographing.
 
 Based on source code from Art. Lebedev Studio and using their API.
 
